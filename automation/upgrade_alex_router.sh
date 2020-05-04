@@ -1,4 +1,7 @@
 #!/bin/bash -eu
+#
+# Script to upgrade Alex's router.  The manufacturer suggested upgrading through
+# the sequence of versions without skipping any, which can be time consuming.
 
 usage="$0 router_address"
 
